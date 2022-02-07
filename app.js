@@ -5,9 +5,9 @@ const { faker } = require('@faker-js/faker');
 // Connect to database
 var connection = mysql.createConnection({
   host     : 'localhost',
-  user     : 'root',     // your root username
+  user     : 'username',     
   password : 'password',
-  database : 'join_us'   // the name of your db
+  database : 'exercises_db'   
 });
 
 
