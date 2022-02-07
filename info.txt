@@ -1,0 +1,3 @@
+A few exercises to practise manipulating data within the mysql client terminal and through node.js
+The database is a very simple onde with just two fields: an email and a date.
+I used faker module to generate random emails and times to facilitate the process.
